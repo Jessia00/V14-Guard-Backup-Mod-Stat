@@ -43,6 +43,8 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/98e1ad77-012f-438a-a62b-18b888abc9ae)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/cbae83b9-4984-4c7d-b579-c177a9667384)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/34ad069a-d018-4695-ba74-b9a9bb8caf08)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/07bdb198-d81c-42fe-8852-2eda626ee258)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/7c9675da-b579-4b3e-8ae0-729c387f36f0)
 
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
