@@ -43,9 +43,11 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/98e1ad77-012f-438a-a62b-18b888abc9ae)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/cbae83b9-4984-4c7d-b579-c177a9667384)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/34ad069a-d018-4695-ba74-b9a9bb8caf08)
-![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/07bdb198-d81c-42fe-8852-2eda626ee258)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e39f0d1d-63ab-485c-bf1a-62bdf1b4b179)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/7c9675da-b579-4b3e-8ae0-729c387f36f0)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e9a47ceb-a434-4ff0-9b3f-a6df82529f66)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/206e9266-971d-42a3-a596-1202f2768e12)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/cc0102fe-58d6-404a-861a-892dd279a18a)
 
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
