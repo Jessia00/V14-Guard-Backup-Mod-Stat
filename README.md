@@ -30,6 +30,19 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/fb2a546d-efce-4e34-95a6-fea05ab56340)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/7cc58d2b-4246-4ba7-b961-6ce474fa770d)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/bcc71159-4454-459e-b968-d27210728ad2)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/1475a4f1-0618-407c-b29d-8eee4124307c)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/73a1b69c-2dd9-425d-bfe1-5cba2e44edaf)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6bb5fa32-a30b-40c0-81b1-d84c8e5980f9)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/aef719e6-d1a1-4b6a-98bd-d72f334da999)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/b676990d-b37f-480d-aeb2-23362185e5cf)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/0b7615b8-37b5-486d-ba17-7739461a8713)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/1d9354ef-e232-4a52-a03c-5d1e04919fd8)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6079ccfd-c5a2-42e9-91eb-76b9b2f56003)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/ac3546eb-70f3-4d01-99de-2ddfb814762d)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/7e6a639d-0322-426f-ad18-4e04994c5458)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/98e1ad77-012f-438a-a62b-18b888abc9ae)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/cbae83b9-4984-4c7d-b579-c177a9667384)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/34ad069a-d018-4695-ba74-b9a9bb8caf08)
 
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
