@@ -15,13 +15,11 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/162989b5-f2d4-4012-b95c-77cc97e817ad)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/606f8dd3-feac-4f7d-a86d-09755a605e76)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/ca733f51-d3d4-4ed3-9409-43b511e70e9e)
-
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/fb1c79ea-ca51-4fcc-af35-f39958afbdf1)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/80e2b951-d01c-4e68-87e7-f74efc18837e)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/16fe4473-8d55-41d3-bce5-666eba8b8901)
-![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4a8e1c84-dc63-4665-8e8e-8bb1c5b2a043)
-![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/68abec38-8c2b-4423-bb7e-71301df390ef)
-![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/352ef3ea-d16f-4b91-a089-1ca4b3478917)
+
+
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/911e980a-a912-4c46-889e-78648b6a9209)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/16477aa0-7820-4ee7-bfbb-73716f5b098f)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f860be32-7a4a-4a9d-83dd-e9126d3036da)
