@@ -50,5 +50,5 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
-welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 100 ü geçkin komut bulunmaktadır.
+welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 100 ü geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.
 
