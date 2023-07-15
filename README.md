@@ -46,6 +46,8 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/98746405-24f3-47d4-b111-e01b3c39ffd6)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6cbf7715-6be0-441b-a05b-fde52368c18a)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/57d1f237-da1a-4d56-9718-cbc580edad2b)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4fbab1db-3bb8-4dc9-a672-6ad91569020e)
+
 
 
 
