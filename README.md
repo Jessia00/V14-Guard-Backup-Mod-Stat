@@ -52,6 +52,14 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f11a7d9a-ca39-47d0-868c-d5b5ab746431)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/893d94ae-7a28-4348-85d8-c299c797cc8f)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/71c3e7d2-7924-4e84-8794-5c79af8ed2ca)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6fa2761d-5bd7-42ca-9b82-4646b97101f4)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/807bae1d-01cf-48fd-ad96-8bbb789985d4)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/669a8baa-980e-45b0-a5c0-ff7907d26b21)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/68754ec8-a17e-48f4-ac82-f05f76f79ad5)
+
+Yöneticisi olan her kanaldan istediğini kesiyor olmayan sadece kayıttan kesebiliyor ki zaten kayıt yapılınca bot public odalardan birine kullanıcıya rastgele gönderiyor.
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/15552cf7-76ed-4dce-bc09-1b921cd09875)
+
 
 
 
