@@ -57,6 +57,15 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/669a8baa-980e-45b0-a5c0-ff7907d26b21)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/68754ec8-a17e-48f4-ac82-f05f76f79ad5)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e4644430-600b-44d6-b79b-0842f7f5568a)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/905a60fc-5483-4a52-a172-8ae27ac853ed)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/1d732854-a894-45dd-b699-cf9852be57d1)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/1ab3c801-fe66-491c-8f48-3de317622bcc)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/ec0d992e-660e-49f3-a052-aca8cff922a3)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/97706c66-7592-492d-8f4e-672c72da05a4)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/2a5207c5-768e-4d14-b480-fe48cb2d0943)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/d4d021a0-3099-427b-8559-7f9db65392b7)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6e9bb2c4-aace-4a0d-8622-2ebf5ccceb42)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f9c69967-63a0-4dbc-be8b-ef6f9b4c8d28)
 
 
 Yöneticisi olan her kanaldan istediğini kesiyor olmayan sadece kayıttan kesebiliyor ki zaten kayıt yapılınca bot public odalardan birine kullanıcıya rastgele gönderiyor.
