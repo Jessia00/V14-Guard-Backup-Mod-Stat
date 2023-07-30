@@ -79,6 +79,6 @@ https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/832
 
 
 
-MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
-welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 120 yi geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.
+MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR ÇOKLU TAG EKLENEBİLİR SINIR YOK HERŞEY GÜNCELDİR 
+welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 120 yi geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.Özel oda sistemide moderasyona bağlıdır.
 
