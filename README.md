@@ -51,6 +51,10 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/00f0f12c-f9ff-4243-8abd-766048590cd7)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/74d18eb7-1698-478f-b2bc-759476b7942b)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f11a7d9a-ca39-47d0-868c-d5b5ab746431)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/893d94ae-7a28-4348-85d8-c299c797cc8f)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/71c3e7d2-7924-4e84-8794-5c79af8ed2ca)
+
+
 
 # YETKİLİ & GÖREV Sistemi
 https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e304a12e-fc6c-4d6a-8a89-1509d71f8ce2
@@ -67,5 +71,5 @@ https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/832
 
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
-welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 100 ü geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.
+welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 120 yi geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.
 
