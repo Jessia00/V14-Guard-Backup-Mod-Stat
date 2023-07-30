@@ -53,7 +53,6 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/893d94ae-7a28-4348-85d8-c299c797cc8f)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/71c3e7d2-7924-4e84-8794-5c79af8ed2ca)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6fa2761d-5bd7-42ca-9b82-4646b97101f4)
-![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4e107a2e-913c-4cfd-803c-0edee7fa13c5)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/669a8baa-980e-45b0-a5c0-ff7907d26b21)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/68754ec8-a17e-48f4-ac82-f05f76f79ad5)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e4644430-600b-44d6-b79b-0842f7f5568a)
@@ -68,6 +67,8 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f9c69967-63a0-4dbc-be8b-ef6f9b4c8d28)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/69b6869b-b09f-4e4f-aaf3-398fdcacc24a)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/8464faf1-fc00-49c3-a0f6-d1e120405b35)
+![Ekran görüntüsü 2023-07-30 132813](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/89db4fdd-2f78-40ee-9150-8ca043489cd9)
+
 
 
 Yöneticisi olan her kanaldan istediğini kesiyor olmayan sadece kayıttan kesebiliyor ki zaten kayıt yapılınca bot public odalardan birine kullanıcıya rastgele gönderiyor.
@@ -91,5 +92,5 @@ https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/832
 
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR ÇOKLU TAG EKLENEBİLİR SINIR YOK HERŞEY GÜNCELDİR 
-welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 120 yi geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.Özel oda sistemide moderasyona bağlıdır.
+welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 100 ü geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.Özel oda sistemide moderasyona bağlıdır.
 
