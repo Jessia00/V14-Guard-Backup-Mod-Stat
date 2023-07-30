@@ -47,6 +47,16 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/6cbf7715-6be0-441b-a05b-fde52368c18a)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/57d1f237-da1a-4d56-9718-cbc580edad2b)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4fbab1db-3bb8-4dc9-a672-6ad91569020e)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/412066a0-5237-4f6d-8cae-171577ed4029)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/00f0f12c-f9ff-4243-8abd-766048590cd7)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/74d18eb7-1698-478f-b2bc-759476b7942b)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f11a7d9a-ca39-47d0-868c-d5b5ab746431)
+
+# YETKİLİ & GÖREV Sistemi
+https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e304a12e-fc6c-4d6a-8a89-1509d71f8ce2
+
+
+
 
 # LeaderBoard Sistemi 
 https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/83259d83-e2b6-424b-943d-56255f0a95a9
