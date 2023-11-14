@@ -1,5 +1,9 @@
 # V14-Guard-Backup-Mod-Stat
 EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM (darkdayscim & soullxd.) ATABİLİRSİNİZ HOSUMUZA GİDEN BİR STARA PAYLAŞIRIZ.(Guardlarımız Self Tokenler ile çalışıyor url koruyor ve spamlıyor yetkisi yetmeyince tac hesaba girip banlıyor.)
+
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/dbd1fced-5c67-4bf3-bd95-4f82f5c17a26)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4ce8e1d7-9710-4988-944f-2afc36f27fc1)
+![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/0d94a5e6-0068-41c6-9e8b-5fcf826a63ac)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/5fec343a-277d-47b2-9a61-16bf65545718)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/30c97bf5-2f47-49d9-b6b9-e223fdc17f17)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/9dc6431e-2932-48b2-bde9-0ec18d1a33ec)
