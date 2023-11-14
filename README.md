@@ -72,7 +72,12 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/f9c69967-63a0-4dbc-be8b-ef6f9b4c8d28)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/69b6869b-b09f-4e4f-aaf3-398fdcacc24a)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/8464faf1-fc00-49c3-a0f6-d1e120405b35)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/19e03e88-05eb-45e3-8634-cc31735fffe4)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/4a659981-37b6-4b88-a5f4-33e9502fb450)
+
 ![Ekran görüntüsü 2023-07-30 132813](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/89db4fdd-2f78-40ee-9150-8ca043489cd9)
+
+
 
 
 
