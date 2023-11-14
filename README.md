@@ -1,5 +1,6 @@
-# V14-Guard-Backup-Mod-Stat
-EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM (darkdayscim & soullxd.) ATABİLİRSİNİZ HOSUMUZA GİDEN BİR STARA PAYLAŞIRIZ.(Guardlarımız Self Tokenler ile çalışıyor url koruyor ve spamlıyor yetkisi yetmeyince tac hesaba girip banlıyor.)
+# V14-Guard-Backup-Mod-Stat-ÖzelOda-Welcome
+En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup hepsi pm2 sistemine bağlıdır botlarımızda en ufak bir hata dahi yoktur.Guardlarımızda log sistemi ID si girilen kişilere Dm yoluyla iletmektedir rol dağıtımı rate limit olmadan yapılmaktadır rol dağıtımında üye sayısına gmre tüm botlar ve self hesap'da dağıtım yapmaktadır yani calmdown sistemi vardır. Süpervizör botumuz oldukça gelişmiştir
+140 Adet komutu vardır içerisinde bir sunucuya yetecek her sistem vardır hiçbir kurulumu el ile yapmazsınız herşey otomatik setup'a bağlıdır. Welcome botlarımız isteğe göre ister hoşgeldin mesajı ile konuşur isterseniz herhangi bir youtube & spotify linki ile çalışmaktadır. İçerisinizde Özel Oda (Prive Room) sistemide bulunan botumuzda özel butonlar ile odanızı kontrol edebilirsiniz.Botlarımız satılıkdır ulaşmak için **Discord: darkcim** nickli hesaba istek atmanız yeterlidir.
 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/dbd1fced-5c67-4bf3-bd95-4f82f5c17a26)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4ce8e1d7-9710-4988-944f-2afc36f27fc1)
@@ -89,12 +90,4 @@ https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e30
 
 # LeaderBoard Sistemi 
 https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/83259d83-e2b6-424b-943d-56255f0a95a9
-
-
-
-
-
-
-MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR ÇOKLU TAG EKLENEBİLİR SINIR YOK HERŞEY GÜNCELDİR 
-welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 100 ü geçkin komut bulunmaktadır.Özel komutları isteğinize göre ekliyorsunuz oda yardım menüsüne oto ekleniyor.Özel oda sistemide moderasyona bağlıdır.
 
