@@ -3,7 +3,7 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 140 Adet komutu vardır içerisinde bir sunucuya yetecek her sistem vardır hiçbir kurulumu el ile yapmazsınız herşey otomatik setup'a bağlıdır. Welcome botlarımız isteğe göre ister hoşgeldin mesajı ile konuşur isterseniz herhangi bir youtube & spotify linki ile çalışmaktadır. İçerisinizde Özel Oda (Prive Room) sistemide bulunan botumuzda özel butonlar ile odanızı kontrol edebilirsiniz.Botlarımız satılıkdır ulaşmak için **Discord: darkcim** nickli hesaba istek atmanız yeterlidir.
 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/dbd1fced-5c67-4bf3-bd95-4f82f5c17a26)
-![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/7e809b7c-b4f8-450b-b078-593303ffd1ec)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/ea1feb2a-991d-43c6-bb01-cc21c5857b2f)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/4ce8e1d7-9710-4988-944f-2afc36f27fc1)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/0d94a5e6-0068-41c6-9e8b-5fcf826a63ac)
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/5fec343a-277d-47b2-9a61-16bf65545718)
