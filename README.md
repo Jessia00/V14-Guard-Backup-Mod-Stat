@@ -59,11 +59,14 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/61b0b831-e2ef-430a-83fd-14e9cd533ebd)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/0d7ed316-d5d5-440e-896c-14e9e5558ec4)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/8ca50eac-038d-4a2e-bb7e-957588719ffa)
-
-
-
-
-
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/5144dada-8015-419c-9320-2aac986644a6)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/abd669c3-7f03-4020-b870-4bce6ccf9bf2)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/a0d45442-08d0-4919-b3c8-1435ae600403)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/27ae5f23-a839-422f-9639-c7015782a410)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/0167ee64-4075-4643-ace5-e170ebe2a33c)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/49f7cc55-bcb6-4dd2-92e5-d13ff7c93d80)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/96e18b5b-2359-42b0-8cfc-c71b920a22da)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/0bfd047b-1d35-4700-8d54-6ba85d5bd22b)
 
 # GUARD
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/9955537c-cf17-4b38-aa33-4bbcb3e5b7d6)
@@ -72,7 +75,15 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/5746061c-2c30-4e00-b8d1-ffd88c8a8957)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/9c44b62d-0169-4092-912e-7448f6dc6f0f)
 
+# WELCOME 
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/eddc9ab9-5c9e-428e-ad0e-54ec9cc9c3e0)
 
+# GENEL
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/cf1f95da-19d3-4c7b-bec6-9194ecd2cbab)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/018c3fac-2e18-4cf6-b6b1-7f5cd7be7ed2)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/71379a19-c7d0-4e9f-9928-0876018f350e)
+
+:)  Darkdays X Soull 2.5 Sene oldu hala kardeşiz ortağız devamke.
 
 
 
