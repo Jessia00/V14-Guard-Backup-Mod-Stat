@@ -68,12 +68,25 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/96e18b5b-2359-42b0-8cfc-c71b920a22da)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/0bfd047b-1d35-4700-8d54-6ba85d5bd22b)
 
+# EMBED VE NORMAL HOŞGELDİN MESAJI
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/edaefd6c-f7d5-4545-85aa-9da43d4e1928)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/1a534600-16a5-4801-995e-7a37a662a14b)
+
+
 # GUARD
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/9955537c-cf17-4b38-aa33-4bbcb3e5b7d6)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/e96f56f5-9289-427d-ba52-a5acc67cae4e)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/3d41619b-d8cd-4097-8da6-5b195bd1527e)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/5746061c-2c30-4e00-b8d1-ffd88c8a8957)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/9c44b62d-0169-4092-912e-7448f6dc6f0f)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/f9b59527-a005-4153-bfb6-76497b7e7187)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/07f67d2f-57f0-41e4-82ef-80dbe4cf287c)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/7585ed64-2a8f-485d-a6eb-9e3813362839)
+Kendi hesabım selfe bağlı olduğu için self den rol dağıtmış rolde 10 kişi olduğu için hızlı dağıtım sağlamış rollerdeki üye sayısına göre self devreye giriyor bu sayede limit yemeden hızlı dağıtım calmdown sistemi oluyor. Ayrıca Guard Log bilgisini hem ownerlara dm den hem de kanala gönderiyor ve oto kurulum sağlıyor. 
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/1d4c23ac-e824-420c-8b3c-e120975490b3)
+
+
+
 
 # WELCOME 
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/eddc9ab9-5c9e-428e-ad0e-54ec9cc9c3e0)
