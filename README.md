@@ -52,6 +52,14 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/39a0e77c-c7e4-4607-bffb-142b786cfb46)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/88cbe01f-910f-4226-8b11-39995ed5a4f3)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/85e28783-23ec-4f82-831f-a12b118f832c)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/097ec706-a591-4233-a602-43abfde1477b)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/f9fa46cb-7cca-41c5-97eb-7d1eb87bd16c)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/87ddfb12-8620-4607-987c-a34b1f4d85ea)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/74ad7ab8-6a8f-40f3-99af-4776d1cebf28)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/61b0b831-e2ef-430a-83fd-14e9cd533ebd)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/0d7ed316-d5d5-440e-896c-14e9e5558ec4)
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/8ca50eac-038d-4a2e-bb7e-957588719ffa)
+
 
 
 
