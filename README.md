@@ -7,18 +7,8 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 
 
 
-Yöneticisi olan her kanaldan istediğini kesiyor olmayan sadece kayıttan kesebiliyor ki zaten kayıt yapılınca bot public odalardan birine kullanıcıya rastgele gönderiyor.
-![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/15552cf7-76ed-4dce-bc09-1b921cd09875)
 
 
 
 
-# YETKİLİ & GÖREV Sistemi
-https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/e304a12e-fc6c-4d6a-8a89-1509d71f8ce2
-
-
-
-
-# LeaderBoard Sistemi 
-https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/83259d83-e2b6-424b-943d-56255f0a95a9
 
