@@ -99,6 +99,7 @@ Kendi hesabım selfe bağlı olduğu için self den rol dağıtmış rolde 10 ki
 
 :)  Darkdays X Soull 2.5 Sene oldu hala kardeşiz ortağız devamke.
 
+![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/458f080a-676d-43e6-8a1f-9dec77464963) Yalatmak isteyen (@fristyxd)
 
 
 
