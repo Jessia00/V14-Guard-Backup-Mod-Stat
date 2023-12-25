@@ -1,0 +1,1 @@
+message.channel.send("Botları satın almak için @soullxd. & @darkcim")
