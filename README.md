@@ -82,6 +82,7 @@ En iyileri ile karşınızdayız projelerimiz DiscordJS V14 ile yazılmış olup
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/f9b59527-a005-4153-bfb6-76497b7e7187)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/07f67d2f-57f0-41e4-82ef-80dbe4cf287c)
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/7585ed64-2a8f-485d-a6eb-9e3813362839)
+
 Kendi hesabım selfe bağlı olduğu için self den rol dağıtmış rolde 10 kişi olduğu için hızlı dağıtım sağlamış rollerdeki üye sayısına göre self devreye giriyor bu sayede limit yemeden hızlı dağıtım calmdown sistemi oluyor. Ayrıca Guard Log bilgisini hem ownerlara dm den hem de kanala gönderiyor ve oto kurulum sağlıyor. 
 ![image](https://github.com/darkcim/V14-Guard-Backup-Mod-Stat/assets/125148735/1d4c23ac-e824-420c-8b3c-e120975490b3)
 
